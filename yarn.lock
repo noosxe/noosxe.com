@@ -5435,16 +5435,16 @@ gatsby-plugin-image@^3.12.1:
     objectFitPolyfill "^2.3.5"
     prop-types "^15.8.1"
 
-gatsby-plugin-manifest@^5.12.0:
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-5.12.0.tgz#597ccc639c4bd1d35c8d20358ea9e52ed156ab9a"
-  integrity sha512-M4tq4AX4yVNUQnYQ5SI1ba/Khqof4PtyVtIpzzGE82O53Jg3M5AWZ0KGcz+d3UFdw1PGXYF+UtTzPlzMiTTeEg==
+gatsby-plugin-manifest@^5.12.2:
+  version "5.12.2"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-5.12.2.tgz#09734e9fd471a5e3c0b3206e3680524376378e23"
+  integrity sha512-Bs2U/gNVjXebQS3p4OLZjT/9Y+YAv0MYwZdWVCmXIIXEYUcE5zrWlNLjhsKPS0tTE5d5ELymTRVBOzvkHabdPA==
   dependencies:
     "@babel/runtime" "^7.20.13"
     gatsby-core-utils "^4.12.0"
-    gatsby-plugin-utils "^4.12.0"
+    gatsby-plugin-utils "^4.12.2"
     semver "^7.5.3"
-    sharp "^0.32.1"
+    sharp "^0.32.6"
 
 gatsby-plugin-offline@^6.12.2:
   version "6.12.2"
@@ -5515,7 +5515,7 @@ gatsby-plugin-typescript@^5.12.0:
     "@babel/runtime" "^7.20.13"
     babel-plugin-remove-graphql-queries "^5.12.0"
 
-gatsby-plugin-utils@^4.12.0, gatsby-plugin-utils@^4.12.1, gatsby-plugin-utils@^4.12.2:
+gatsby-plugin-utils@^4.12.1, gatsby-plugin-utils@^4.12.2:
   version "4.12.2"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-utils/-/gatsby-plugin-utils-4.12.2.tgz#8e6d3ceaca1f485ddf1e7da674b57c067564dd52"
   integrity sha512-N5d+fxPd7cZ9KeTl0bHF1JM4MDB2hazXbcOI2gxS9rIL0vgbyBT/ffJ9uczNwJwQuGQPOWdXO6eCspjT4zKcqw==
@@ -9065,7 +9065,7 @@ shallow-compare@^1.2.2:
   resolved "https://registry.yarnpkg.com/shallow-compare/-/shallow-compare-1.2.2.tgz#fa4794627bf455a47c4f56881d8a6132d581ffdb"
   integrity sha512-LUMFi+RppPlrHzbqmFnINTrazo0lPNwhcgzuAXVVcfy/mqPDrQmHAyz5bvV0gDAuRFrk804V0HpQ6u9sZ0tBeg==
 
-sharp@^0.32.1, sharp@^0.32.6:
+sharp@^0.32.6:
   version "0.32.6"
   resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.32.6.tgz#6ad30c0b7cd910df65d5f355f774aa4fce45732a"
   integrity sha512-KyLTWwgcR9Oe4d9HwCwNM2l7+J0dUQwn/yf7S0EnTtb0eVS4RxO0eUSvxPtzT4F3SY+C4K6fqdv/DO27sJ/v/w==
