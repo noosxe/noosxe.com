@@ -1,0 +1,13 @@
+baseURL = "https://noosxe.com/"
+languageCode = "en-us"
+title = "noosxe's blog"
+theme = "anubis2"
+
+[author]
+name = "noosxe"
+
+[markup.goldmark.renderer]
+unsafe = true # Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style = "base16-snazzy" # Highlight.js style
